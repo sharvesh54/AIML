@@ -9,6 +9,8 @@ The resulting 2-D reduced data is subjected to clustering to identify outliers u
 ## Tools Used:
 ipynb, pandas, scipy, sklearn, numpy, math, and matplotlib.
 
+![Anomaly Plot](https://github.com/sharvesh54/AIML/blob/main/Anomaly/Plots/for%20all%20features.png)
+
 # Short-Term Load Forecasting (LSTM) in Power Usage Time Series
 ## Objective:
 Mining large amounts of data provides valuable insights into peak demand periods.
@@ -16,3 +18,5 @@ The forecaster technique in TensorFlow is used with epochs = 15 and validation s
 Dealing with high-dimensional and unlabeled data to provide accurate short-term forecasts (e.g., 1 hour).
 ## Tools Used:
 TensorFlow, ipynb, pandas, scipy, sklearn, math, and matplotlib.
+
+![Output Plot](https://github.com/sharvesh54/AIML/blob/main/LSTM/output.png)
